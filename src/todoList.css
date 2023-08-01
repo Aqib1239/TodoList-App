@@ -1,0 +1,35 @@
+.section{
+    height: 100vh;
+    background: #bcbaa9;
+ }
+ 
+ .container {
+    max-height: 90vh;
+    min-height: 50vh;
+    /* max-width: 90vw; */
+    background: #1a0c56;
+    background-image: linear-gradient(to top, #330867 0%, #21a5a5 100%);
+ }
+ 
+ .textBox::-webkit-scrollbar{
+    width: 10px;
+    height: 6px;
+ }
+ 
+ .textBox::-webkit-scrollbar-track {
+    background-color: #1676e4;
+    border-radius: 100px;
+  }
+ 
+ .textBox::-webkit-scrollbar-thumb {
+    background-color: #c7c7d8;
+    border-radius: 100px;
+ }
+ 
+ .textBox::-webkit-scrollbar-track:hover{
+    background-color: #7c7c6a;
+ }
+ .textBox::-webkit-scrollbar-thumb:hover {
+    background-color: #1410ed;
+ }
+ 
