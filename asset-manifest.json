@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Aqib1239.github.io/TodoList-App/static/css/main.73c62f0a.css",
+    "main.js": "//Aqib1239.github.io/TodoList-App/static/js/main.558d1563.js",
+    "index.html": "//Aqib1239.github.io/TodoList-App/index.html",
+    "main.73c62f0a.css.map": "//Aqib1239.github.io/TodoList-App/static/css/main.73c62f0a.css.map",
+    "main.558d1563.js.map": "//Aqib1239.github.io/TodoList-App/static/js/main.558d1563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c62f0a.css",
+    "static/js/main.558d1563.js"
+  ]
+}
